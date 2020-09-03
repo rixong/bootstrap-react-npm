@@ -2,7 +2,7 @@ import React from 'react';
 
 const NavBar = () => {
   return (
-    <nav className="navbar sticky-top navbar-expand-md navbar-light bg-light">
+    <nav className="navbar sticky-top navbar-expand-md navbar-dark">
       <a className="navbar-brand" href="https://rickglascock.com">My Company</a>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
